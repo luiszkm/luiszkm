@@ -1,9 +1,10 @@
-## Olá!Eu sou luiszkm,estudande tecnologia e programção!
+## Hello!I'm luiszkm, front-end developer!
 
-- 🔭 Hoje estou à procura de Estagio
-- 🌱 Estou estudando:Sistema da Informação,e programas relacionados a Full stack.
-- 📫 Contato: luiszkm@gmail.com
-- 😄 Pronomes: ele/dele
+- 🔭 today, I'm looking for work as a front-end developer
+- 🌱 Graduation : Information System (1/8)
+- 🌱 I'm studyng :React and Node 
+- 📫 Contact: luiszkm@gmail.com
+- 😄Pronouns: he/his
 
 <div align="center">
   <a href="https://github.com/luiszkm">
