@@ -1,10 +1,21 @@
-## Hello!I'm luiszkm, front-end developer!
+## Hello!I'm Luis Soares :wave:
+### About
+I'm a web developer, and i'm studing web devolpent at Rocketset.
 
-- 🔭 today, I'm looking for work as a front-end developer
-- 🌱 Graduation : Information System (1/8)
-- 🌱 I'm studyng :React and Node 
-- 📫 Contact: luiszkm@gmail.com
-- 😄Pronouns: he/his
+- :mortar_board: Graduation : Information System (1/8)
+- :mortar_board: I'm studyng : `ReactJs` and `NodeJs` 
+
+### Current Stack
+- Main Language: `JavaScript`
+- Back-End: `NodeJs`
+- Front-End: `ReactJs`,`HTML5`,`CSS3`,`JavaScript`
+- Layout Desing: `Figma`
+- Tolls: `VsCode`
+- Version Controls: `Git & Github`
+
+### Contact 
+- 📫 Email: luiszkm@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/luiszkm">
