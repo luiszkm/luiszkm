@@ -1,6 +1,6 @@
 ## Hello!I'm Luis Soares :wave:
 ### About
-I'm a web developer, and i'm studing web devolpent at Rocketset.
+I'm a Web Developer (Node | React), passionate about technologies and always looking for a challenge for professional and personal development.
 
 - :mortar_board: Graduation : Information System (1/8)
 - :mortar_board: I'm studyng : `ReactJs` and `NodeJs` 
