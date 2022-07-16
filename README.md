@@ -2,7 +2,7 @@
 ### About
 I'm a Web Developer (Node | React), passionate about technologies and always looking for a challenge for professional and personal development.
 
-- :mortar_board: Graduation : Information System (1/8)
+- :mortar_board: Graduation : Information System (2/8)
 - :mortar_board: I'm studyng : `ReactJs` and `NodeJs` 
 
 ### Current Stack
