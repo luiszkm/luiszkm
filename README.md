@@ -7,7 +7,7 @@ I'm a Web Developer (Node | React), passionate about technologies and always loo
 
 ### Current Stack
 - Main Language: `JavaScript`
-- Back-End: `NodeJs`
+- Back-End: `NodeJs`, `SQL`, `MySql`, `Knex`
 - Front-End: `ReactJs`,`HTML5`,`CSS3`,`JavaScript`
 - Layout Desing: `Figma`
 - Tolls: `VsCode`
