@@ -4,7 +4,7 @@ I'm a Web Developer (Node | React), passionate about technologies and always loo
 
 - :mortar_board: Graduation : Information System (2/8)
 - :mortar_board: I'm studyng : `ReactJs` and `NodeJs` 
-
+- :rocket: portfolio under construction (https://devsoares.com)
 ### Current Stack
 - Main Language: `JavaScript`
 - Back-End: `NodeJs`, `SQL`, `MySql`, `Knex`
