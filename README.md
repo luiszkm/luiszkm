@@ -6,9 +6,10 @@ I'm a Web Developer (Node | React), passionate about technologies and always loo
 - :mortar_board: I'm studyng : `ReactJs` and `NodeJs` 
 - :rocket: portfolio under construction (https://devsoares.com)
 ### Current Stack
-- Main Language: `JavaScript`
-- Back-End: `NodeJs`, `SQL`, `MySql`, `Knex`
-- Front-End: `ReactJs`,`HTML5`,`CSS3`,`JavaScript`
+- Main Language: `JavaScript`, `TypeScript`
+- Back-End: `NodeJs`, `SQL`, `Express`, `FastiFy`, `Prisma ORM`, `zod`
+- tests: `vitest`, `Jest`, `TDD`, `E2E`, `integration test`, `unit test`
+- Front-End: `ReactJs`, `Next`, `TailwindCss`, `styled-componetns`, `HTML5`,`CSS3`,
 - Layout Desing: `Figma`
 - Tolls: `VsCode`
 - Version Controls: `Git & Github`
@@ -24,6 +25,7 @@ I'm a Web Developer (Node | React), passionate about technologies and always loo
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Luis-pic" height="150" style="border-radius:50px;"
