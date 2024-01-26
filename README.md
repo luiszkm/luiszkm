@@ -12,11 +12,6 @@ I have a strong commitment to effective front-end documentation, using Storybook
 I am always open to exciting new opportunities and enriching collaborations.
 If you are interested in discussing innovative projects or simply exchanging ideas about technology, feel free to connect with me.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,nextjs,tailwind,git,kubernetes,docker" />
-  </a>
-</p>
 
 - :mortar_board: Graduation : Information System (5/8)
 - :mortar_board: My specilization : `ReactJs` and `.NET` 
@@ -35,7 +30,11 @@ If you are interested in discussing innovative projects or simply exchanging ide
 ### Contact 
 - 📫 Email: luiszkm@gmail.com
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,nextjs,tailwind,git,kubernetes,docker" />
+  </a>
+</p>
   
   
 <div>
