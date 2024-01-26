@@ -30,7 +30,7 @@ If you are interested in discussing innovative projects or simply exchanging ide
 ### Contact 
 - 📫 Email: luiszkm@gmail.com
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,nextjs,tailwind,git,kubernetes,docker" />
   </a>
