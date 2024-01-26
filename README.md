@@ -12,6 +12,12 @@ I have a strong commitment to effective front-end documentation, using Storybook
 I am always open to exciting new opportunities and enriching collaborations.
 If you are interested in discussing innovative projects or simply exchanging ideas about technology, feel free to connect with me.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,nextjs,tailwind,git,kubernetes,docker" />
+  </a>
+</p>
+
 - :mortar_board: Graduation : Information System (5/8)
 - :mortar_board: My specilization : `ReactJs` and `.NET` 
 - :rocket: portfolio under construction (https://devsoares.com)
@@ -29,28 +35,7 @@ If you are interested in discussing innovative projects or simply exchanging ide
 ### Contact 
 - 📫 Email: luiszkm@gmail.com
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,git,kubernetes,docker" />
-  </a>
-</p>
 
-
-<div align="center">
-  <a href="https://github.com/luiszkm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiszkm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiszkm&layout=compact&langs_count=7&theme=dark "/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Luis-pic" height="150" style="border-radius:50px;"
-       src="https://cdn.wallpapersafari.com/1/80/TIPFn8.png">
-</div>
-  
-##
   
   
 <div>
