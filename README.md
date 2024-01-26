@@ -29,6 +29,12 @@ If you are interested in discussing innovative projects or simply exchanging ide
 ### Contact 
 - 📫 Email: luiszkm@gmail.com
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,git,kubernetes,docker" />
+  </a>
+</p>
+
 
 <div align="center">
   <a href="https://github.com/luiszkm">
